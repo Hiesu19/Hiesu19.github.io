@@ -33,7 +33,8 @@ body {
 	--color-link-hover: #fff;
 	--color-content-title-sub: #6b5537;
     color: var(--color-text);
-    background-color: var(--color-bg);
+    background-color: #0b3ee6;
+    background: linear-gradient(180deg , rgba(0, 255, 255, 0.2) , rgba(255,0,255,0.2));
     --cursor-stroke: #6b5537;
     --cursor-fill: none;
     --cursor-stroke-width: 1px;
@@ -253,7 +254,7 @@ a:focus {
 }
 
 .pos-6 {
-	grid-area: 18 / 40 / 30 / 50;
+	grid-area: 18 / 38 / 30 / 50;
 }
 
 .pos-7 {	
